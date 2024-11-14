@@ -1,1 +1,3 @@
 # rubyGra
+
+gem install bundler
